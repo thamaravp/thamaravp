@@ -15,6 +15,10 @@
  Learning Android (Kotlin)  
  Exploring Firebase & modern backend tools
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=3rd+Year+Software+Engineering+Undergraduate;Passionate+About+Mobile+%26+Web+Development;Learning+Flutter,+Kotlin,+Java+%26+React;Focused+on+Clean+UI%2FUX+Design+%26+User+Experience;Building+Real-World+User-Focused+Apps;Future+Full-Stack+%7C+Mobile+Developer" alt="Typing SVG"/>
+</p>
+
 ---
 
 📫 Connect with me:
