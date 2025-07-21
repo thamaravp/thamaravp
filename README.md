@@ -4,6 +4,10 @@
 
 🚀 Software Engineering Undergraduate | 📱 Mobile Developer | 🌱 Tech Enthusiast  
 
+<p align="center">
+  <img src="web-app-tech-stack.png" alt="Banner" />
+</p>
+
 ---
 
 💻 I’m passionate about:
